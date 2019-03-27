@@ -28,3 +28,6 @@
 
 ! Newsmax Feed Network
 ||cdn.nmcdn.us
+
+! Sprinkle
+||widgets.sprinklecontent.com
